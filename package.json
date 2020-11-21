@@ -4,7 +4,8 @@
   "description": "jest-puppeteer が動かなかったので最小構成で実験",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:cov": "jest --coverage"
   },
   "repository": {
     "type": "git",
